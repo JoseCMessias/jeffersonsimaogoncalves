@@ -27,10 +27,10 @@ Adoro novos desafios.
 
 ## Ferramentas:
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/jeffersonsimaogoncalves?tab=repositories&language=php)
 [![COMPOSER](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-[![CAKEPHP](https://img.shields.io/badge/cakephp%20-%2320232a?style=for-the-badge&logo=cakephp)](https://github.com/jeffersonsimaogoncalves)
-[![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
+[![CAKEPHP](https://img.shields.io/badge/cakephp%20-%2320232a?style=for-the-badge&logo=cakephp)](https://github.com/jeffersonsimaogoncalves?tab=repositories&language=cakephp)
+[![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/jeffersonsimaogoncalves?tab=repositories&language=laravel)
 [![Laravel Nova Badge](https://img.shields.io/badge/Laravel%20Nova-252D37?logo=laravelnova&logoColor=fff&style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
 [![Livewire Badge](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=fff&style=for-the-badge)](https://github.com/jeffersonsimaogoncalves)
 [![PACKAGIST](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
@@ -61,14 +61,14 @@ Adoro novos desafios.
 [![INSOMNIA](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-[![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
-[![BOOSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jeffersonsimaogoncalves?tab=repositories&language=html)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jeffersonsimaogoncalves?tab=repositories&language=css)
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/jeffersonsimaogoncalves?tab=repositories&language=sass)
+[![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/jeffersonsimaogoncalves?tab=repositories&language=tailwindcss)
+[![BOOSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/jeffersonsimaogoncalves?tab=repositories&language=bootstrap)
 [![MATERIALUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/jeffersonsimaogoncalves)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/jeffersonsimaogoncalves?tab=repositories&language=javascript)
 [![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![ALPINEJS](https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)](https://github.com/jeffersonsimaogoncalves)
 [![CHARTJS](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
@@ -85,7 +85,7 @@ Adoro novos desafios.
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![SOCKETIO](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 
-[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
+[![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/jeffersonsimaogoncalves?tab=repositories&language=java)
 [![HIBERNATE](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 [![GRADLE](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://github.com/jeffersonsimaogoncalves)
 
