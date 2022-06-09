@@ -2,6 +2,8 @@
 
 Sou o **Jefferson Simão Gonçalves**, moro em Assis/SP.
 
+Meu hobby é **programar** e escutar música.
+
 Sou formado em Ciência da Computação (2015) pela [FEMA](https://www.fema.edu.br) e pelo curso Técnico em Informática (2010) pela [ETEC Cândido Mota](https://www.cps.sp.gov.br/etecs/etec-prof-luiz-pires-barbosa/).
 
 Sou programador de aplicativos, sistemas, sites. Trabalho com diversas tecnologias.
