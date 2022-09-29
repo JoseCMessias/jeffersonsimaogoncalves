@@ -28,7 +28,7 @@ Adoro novos desafios.
 
 ## Hospedagens:
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=01bc96a5aa4b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=067c35d7777e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 ## Ferramentas:
 
