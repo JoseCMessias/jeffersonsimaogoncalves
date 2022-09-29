@@ -26,6 +26,10 @@ Adoro novos desafios.
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jsimaogoncalves)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4AC959?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/L6YUTOXGTADNM1)
 
+## Hospedagens:
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=01bc96a5aa4b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 ## Ferramentas:
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/jeffersonsimaogoncalves?tab=repositories&language=php)
